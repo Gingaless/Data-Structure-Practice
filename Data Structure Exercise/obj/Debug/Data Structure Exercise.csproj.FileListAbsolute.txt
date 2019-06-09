@@ -1,0 +1,6 @@
+c:\users\기본사용자\documents\visual studio 2015\Projects\Data Structure Exercise\Data Structure Exercise\bin\Debug\Data Structure Exercise.exe.config
+C:\Users\기본사용자\documents\visual studio 2015\Projects\Data Structure Exercise\Data Structure Exercise\bin\Debug\Data Structure Exercise.exe
+C:\Users\기본사용자\documents\visual studio 2015\Projects\Data Structure Exercise\Data Structure Exercise\bin\Debug\Data Structure Exercise.pdb
+C:\Users\기본사용자\documents\visual studio 2015\Projects\Data Structure Exercise\Data Structure Exercise\obj\Debug\Data Structure Exercise.exe
+C:\Users\기본사용자\documents\visual studio 2015\Projects\Data Structure Exercise\Data Structure Exercise\obj\Debug\Data Structure Exercise.pdb
+C:\Users\기본사용자\Documents\Visual Studio 2015\Projects\Data Structure Exercise\Data Structure Exercise\obj\Debug\Data Structure Exercise.csprojResolveAssemblyReference.cache
